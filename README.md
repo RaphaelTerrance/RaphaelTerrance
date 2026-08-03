@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @RaphaelTerrance
-- 👀 I’m interested in: Anime, Java, Python, Game && Film && Food Theory (MatPat)
 - 🌱 I’m currently learning Java on BlueJ, Python
 - 💞️ I’m looking to learn from the GitHub community.
 - 📫 How to reach me: @TheoristRaphael on Twitter, @straphael_thespartan on IG, Raphael Terrance Fernandez on YT, StRaphael_TheSpartan on Reddit.
